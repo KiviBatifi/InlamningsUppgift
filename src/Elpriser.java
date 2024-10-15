@@ -116,12 +116,12 @@ public class Elpriser {
     }
 
     private static void visualisering() {
-        ArrayList<Integer> priser = new ArrayList<>();
-
-        // Populate the ArrayList with numbers from 2 to 25
-        for (int i = 1; i <= 24; i++) {
-            priser.add(i);
-        }
+//        ArrayList<Integer> priser = new ArrayList<>();
+//
+//        // Populate the ArrayList with numbers from 2 to 25
+//        for (int i = 1; i <= 24; i++) {
+//            priser.add(i);
+//        }
 
         if (priser.isEmpty()) {
             System.out.println("Inga priser inmatade.");
